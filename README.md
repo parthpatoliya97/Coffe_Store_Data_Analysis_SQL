@@ -44,9 +44,7 @@ GROUP BY p.product_name
 ORDER BY COUNT(s.product_id) DESC;
 ```
 
-#### 4.Average Sales Amount per City
-
-- What is the average sales amount per customer in each city?
+#### 4.Average Sales Amount per City/Customer
 
 #### Method 1: Customer-level average.
 ```sql
