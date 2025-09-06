@@ -1,6 +1,6 @@
 ## SQL Project - Coffee Store Sales Analysis
 
-![coffee_store_image](https://asset.gecdesigns.com/img/wallpapers/coffee-shop-or-bar-ai-generated-wallpaper-sr17072407-cover.webp)
+![coffee_store_image](https://creator.nightcafe.studio/jobs/6kHpziiBrJUyVTsHV9LS/6kHpziiBrJUyVTsHV9LS--1--mj9ko.jpg)
 
 #### 1.Coffee Consumer Count
 
