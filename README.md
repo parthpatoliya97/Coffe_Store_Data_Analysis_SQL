@@ -1,4 +1,4 @@
-## SQL Project = Coffee Store Sales Analysis
+## SQL Project - Coffee Store Sales Analysis
 
 ![coffee_store_image](https://creator.nightcafe.studio/jobs/6kHpziiBrJUyVTsHV9LS/6kHpziiBrJUyVTsHV9LS--1--mj9ko.jpg)
 
