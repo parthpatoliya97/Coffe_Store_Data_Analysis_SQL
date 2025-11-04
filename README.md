@@ -2,6 +2,9 @@
 
 ![coffee_store_image](https://creator.nightcafe.studio/jobs/6kHpziiBrJUyVTsHV9LS/6kHpziiBrJUyVTsHV9LS--1--mj9ko.jpg)
 
+## ER Diagram :-
+![ER Diagram](https://github.com/parthpatoliya97/Coffe_Store_Data_Analysis_SQL/blob/main/ER%20Diagram.png?raw=true)
+
 #### 1.Coffee Consumer Count
 
 - Select the top 5 cities based on coffee consumers to decide where to open new coffee stores.
